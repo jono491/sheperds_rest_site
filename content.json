@@ -1,0 +1,12 @@
+{
+  "about": "Welcome to The Shepherds Rest – a cozy bar and restaurant serving traditional meals.",
+  "menu": [
+    { "name": "Steak & Ale Pie", "price": "£12.50" },
+    { "name": "Fish & Chips", "price": "£11.00" }
+  ],
+  "events": "Live music every Friday and quiz night every Thursday.",
+  "hours": "Mon-Fri: 12pm-11pm, Sat-Sun: 11am-Midnight",
+  "contact": "123 Countryside Lane, Village Green | Tel: 01234 567890 | info@shepherdsrest.com",
+  "booking": "",
+  "gallery": []
+}
